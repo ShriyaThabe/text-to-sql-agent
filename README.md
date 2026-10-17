@@ -7,11 +7,11 @@ Type a business question in plain English and get back the SQL, the result table
 
 > The backend is on a free tier and goes to sleep when idle, so the first request can take up to a minute. After that it's fast.
 If you ask a question for example as shown in image below 
-![alt text](image-1.png)
+![Question and result](images/img1.png)
 It produces insights as shown in image below 
-![alt text](image-2.png)
-For example you copy paste one of the starter questions it will also show you the SQL logic used to generate the said insights
-![alt text](image-3.png)
+![Question and result](images/img2.png)
+For example you copy paste one of the starter questions it will also show you the SQL logic used to generate the said insights.
+![Question and result](images/img3.png)
 
 
 
